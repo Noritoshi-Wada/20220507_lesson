@@ -344,7 +344,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4201909ef4299544e87eb781cb528834, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  count: 0
+  ballspeed: 7
   rigidBody: {fileID: 879589153}
 --- !u!1 &899492739
 GameObject:
